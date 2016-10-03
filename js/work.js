@@ -2,12 +2,12 @@ var works = [
   {
     title: "GitHub",
     pic: "img/portfolio/github.png",
-    URL: "#"
+    URL: "https://www.github.com/davidsretenovic"
   },
   {
     title: "Calculator",
     pic: "img/portfolio/calculator.jpg",
-    URL: "#"
+    URL: "calculator.html"
   },
   {
     title: "PowerShell Scripts",
